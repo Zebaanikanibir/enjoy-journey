@@ -1,0 +1,13 @@
+.header {
+    font-size: 15px;
+    margin-right: 10px;
+    color: crimson;
+}
+#login{
+    background-color: yellow;
+}
+.name{
+    font-size: 50px;
+    font-weight: 800;
+    color:blue;
+}

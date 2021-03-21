@@ -1,0 +1,10 @@
+.button{
+background-color: beige;
+height: 40px;
+width: 300px;
+    display: flex;
+    border-radius: 10px;
+}
+.button img {
+    width: 60px;
+}
