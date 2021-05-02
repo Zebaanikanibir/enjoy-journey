@@ -2,26 +2,26 @@
     {    "id" :1,
         "name": "Bike",
         "description": "Standard Single Rooms are designed in open -concept living area and have many facilities.",
-        "imgUrl": "https://i.ibb.co/VLXDQJc/Frame.png"
+        "imgUrl":"https://i.ibb.co/DzQ3qqh/Frame.jpg"
     
     },
     
     { "id" :2,
         "name": "Car",
         "description": "Standard Single Rooms are designed in open -concept living area and have many facilities.",
-        "imgUrl":"https://i.ibb.co/8x5NbkX/Frame-2.png"
+        "imgUrl":"https://i.ibb.co/NtCq195/Frame-1.jpg"
     
     },
     { "id" :3,
         "name": "Bus",
         "description": "Standard Single Rooms are designed in open -concept living area and have many facilities.",
-        "imgUrl": "https://i.ibb.co/0nk9GMm/Frame-1.png"
+        "imgUrl":"https://i.ibb.co/JqKnTsV/Group.jpg"
     
     },
     { "id" :3,
-        "name": "Bike",
+        "name": "Train",
         "description": "Standard Single Rooms are designed in open -concept living area and have many facilities.",
-        "imgUrl": "https://i.ibb.co/qj7vV5Z/Group.png"
+        "imgUrl": "https://i.ibb.co/51YzNkN/train.jpg"
     
     }
 ]

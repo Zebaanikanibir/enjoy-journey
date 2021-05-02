@@ -1,19 +1,27 @@
 .transport{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    margin-top: 200px;
+    margin-top: 150px;
+    margin-bottom: 200px;
     
 
     
 }
 .div{
     background-color: rgba(0, 0, 0, 0.233);
+    height:200px;
+    width:250px;
+    margin-left: 5px;
+    
    
 
 }
 
 .transport img{
 width:200px;
+margin-top: 20px;
+margin-left: 20px;
+
 
 }
 .transport h3{

@@ -1,10 +1,10 @@
 .header {
     font-size: 15px;
     margin-right: 10px;
-    color: crimson;
+    color: white;
 }
 #login{
-    background-color: yellow;
+    background-color:red;
 }
 .name{
     font-size: 50px;

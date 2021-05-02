@@ -1,4 +1,13 @@
 .home{
-  margin-left: 150px;
+  margin-left: 100px;
+  animation: Slide_In 2s ease;
 }
+@keyframes Slide_In{
 
+    0%{
+        transform: translateY(-300px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+    }

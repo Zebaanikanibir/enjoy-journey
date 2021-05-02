@@ -6,7 +6,7 @@ import "firebase/firestore";
 import firebaseConfig from '../firebase.config';
 import { Link, useHistory, useLocation } from 'react-router-dom';
 import image from '../../images/download.png';
-
+import './Login.css';
 import { UserContext } from '../../App';
 
 if (!firebase.apps.length) {
@@ -154,7 +154,7 @@ const updateUserName = name =>{
 
     return (
 
-        <Container className="d-flex  align-items-center justify-content-center" style={{maxWidth: "100vh"}}>
+        <Container className="d-flex  align-items-center justify-content-center login" style={{maxWidth: "100vh"}}>
             <div className="w-10" style={{maxWidth:"400px"}}>
             <Card>
               <Card.Body>
@@ -168,7 +168,7 @@ const updateUserName = name =>{
                  </Form.Group>
                  <Form.Group id = 'password'>
                    <Form.Label>Password</Form.Label>
-                   <Form.Control onBlur={handleBlur} name="password" id="password" type="password" required/>
+                   <Form.Control placeholder="Your Password" onBlur={handleBlur} name="password" id="password" type="password" required/>
                  </Form.Group>
                  <Form.Control onBlur={handleBlur} type="submit"/>
 

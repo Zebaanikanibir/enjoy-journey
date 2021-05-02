@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url('../src/images/Bg.png');
+  background-image:linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)) ,url('../src/images/cartoon-city-illustration_23-2147511583.jpg');
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
